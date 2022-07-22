@@ -22,6 +22,7 @@
 
 ## 👨🏻‍💻 Melhorias
 - ``Adicionar uma interface``
+- ``Adicionar Valor no iptu para fazer o rateio``
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
